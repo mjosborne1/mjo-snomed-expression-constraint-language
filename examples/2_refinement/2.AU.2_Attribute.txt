@@ -1,0 +1,2 @@
+// Medicinal Products containing eucalyptus oil
+^ 929360061000036106|Medicinal product reference set| : << 762951001|Has ingredient| = << 2775011000036103|eucalyptus oil|

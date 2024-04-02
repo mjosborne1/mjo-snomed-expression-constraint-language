@@ -1,0 +1,2 @@
+// Causative Agents where disease mathces filter of Staph
+< 64572001 |Disease| {{ term = "Staph" }} . 246075003

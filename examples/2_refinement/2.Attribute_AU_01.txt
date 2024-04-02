@@ -1,0 +1,3 @@
+// Specimen collection procedure where substance (direct)  is bile
+ << 17636008 |Specimen collection|:
+(363701004 | Direct Substance | = << 70150004 | bile |)
